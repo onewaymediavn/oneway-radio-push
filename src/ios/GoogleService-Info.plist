@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>676549497717-0vapsq65dfdoklvflh3000rr3be8uq9b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.676549497717-0vapsq65dfdoklvflh3000rr3be8uq9b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyARgUv0UWY7ND5E9qDFlGu6wUJ1Uym12wY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>676549497717</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.onewaymedia.onewayradio</string>
+	<key>PROJECT_ID</key>
+	<string>org-onewaymedia-radio</string>
+	<key>STORAGE_BUCKET</key>
+	<string>org-onewaymedia-radio.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:676549497717:ios:f70c3b8949bd4942</string>
+	<key>DATABASE_URL</key>
+	<string>https://org-onewaymedia-radio.firebaseio.com</string>
+</dict>
+</plist>

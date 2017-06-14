@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "676549497717",
+    "firebase_url": "https://org-onewaymedia-radio.firebaseio.com",
+    "project_id": "org-onewaymedia-radio",
+    "storage_bucket": "org-onewaymedia-radio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676549497717:android:f70c3b8949bd4942",
+        "android_client_info": {
+          "package_name": "org.onewaymedia.onewayradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676549497717-ujv13c9gcojs96m5rl3n72135ildrgrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4CyHoGFumB40A3iO45340ULDM5ydudCU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
