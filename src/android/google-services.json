@@ -8,12 +8,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:676549497717:android:f70c3b8949bd4942",
+        "mobilesdk_app_id": "1:676549497717:android:efc14fd6b58b5144",
         "android_client_info": {
-          "package_name": "org.onewaymedia.onewayradio"
+          "package_name": "com.vn.onewayradio"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "676549497717-dlfokdcvvb4c0kricng5noqbj65jsleu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vn.onewayradio",
+            "certificate_hash": "a9bc225cf12b4317416a4b6fee4baf078015c5ff"
+          }
+        },
         {
           "client_id": "676549497717-ujv13c9gcojs96m5rl3n72135ildrgrn.apps.googleusercontent.com",
           "client_type": 3
@@ -29,8 +37,20 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676549497717-0vapsq65dfdoklvflh3000rr3be8uq9b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.onewaymedia.onewayradio"
+              }
+            },
+            {
+              "client_id": "676549497717-ujv13c9gcojs96m5rl3n72135ildrgrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2

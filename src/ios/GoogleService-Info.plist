@@ -7,9 +7,9 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>676549497717-0vapsq65dfdoklvflh3000rr3be8uq9b.apps.googleusercontent.com</string>
+	<string>676549497717-cdatb8q1hjlch6qtoc7d4mo3kens5nu5.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.676549497717-0vapsq65dfdoklvflh3000rr3be8uq9b</string>
+	<string>com.googleusercontent.apps.676549497717-cdatb8q1hjlch6qtoc7d4mo3kens5nu5</string>
 	<key>API_KEY</key>
 	<string>AIzaSyARgUv0UWY7ND5E9qDFlGu6wUJ1Uym12wY</string>
 	<key>GCM_SENDER_ID</key>
@@ -17,7 +17,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>org.onewaymedia.onewayradio</string>
+	<string>com.vn.onewayradio</string>
 	<key>PROJECT_ID</key>
 	<string>org-onewaymedia-radio</string>
 	<key>STORAGE_BUCKET</key>
@@ -33,7 +33,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:676549497717:ios:f70c3b8949bd4942</string>
+	<string>1:676549497717:ios:efc14fd6b58b5144</string>
 	<key>DATABASE_URL</key>
 	<string>https://org-onewaymedia-radio.firebaseio.com</string>
 </dict>
